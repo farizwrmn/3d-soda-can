@@ -10,7 +10,7 @@ export default function Footer({}: Props) {
       <div className="relative mx-auto flex w-full max-w-4xl justify-center px-4 py-10">
         <FizziLogo />
         <div className="-translate-w-14 absolute -top-40 right-32 size-28 origin-center md:size-48 md:-translate-y-28">
-          <CircleText />
+          {/* <CircleText /> */}
         </div>
       </div>
     </footer>
